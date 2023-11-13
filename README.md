@@ -4,7 +4,7 @@ Create package locally
 
 ~~~powershell
 # Create a chocolatey package
-choco pack --version 1.6.0-alpha2
+choco pack --version 1.6.0-alpha4
 
 # Install the chocolatey package
 choco install opentofu --source .

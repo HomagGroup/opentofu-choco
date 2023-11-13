@@ -1,9 +1,9 @@
 ﻿$ErrorActionPreference = 'Stop'
 
-$url = 'https://github.com/opentofu/opentofu/releases/download/v1.6.0-alpha3/tofu_1.6.0-alpha3_windows_386.zip'
-$url64 = 'https://github.com/opentofu/opentofu/releases/download/v1.6.0-alpha3/tofu_1.6.0-alpha3_windows_amd64.zip'
-$checksum = 'd0f4a5ff9dca2804a5c6d947cf234bc2604b8e4b5a798a710d964a019b44b1e9'
-$checksum64 = '395e7278136c06fe87ad4115ad5781332f37790adc5e5e64160b01d2a3acd53b'
+$url = 'https://github.com/opentofu/opentofu/releases/download/v1.6.0-alpha4/tofu_1.6.0-alpha4_windows_386.zip'
+$url64 = 'https://github.com/opentofu/opentofu/releases/download/v1.6.0-alpha4/tofu_1.6.0-alpha4_windows_amd64.zip'
+$checksum = '577ace2d25ce19565f4e649486d0eae399e6317f9d9cd28e27d034336a33d3e5'
+$checksum64 = 'b883638d6a571810e1b7cf16a2a46257517a8af786aeb25b53c5f388970a3b59'
 
 $unzipLocation = Split-Path -Parent $MyInvocation.MyCommand.Definition
 
