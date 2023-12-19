@@ -3,7 +3,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
    <id>opentofu</id>
-    <version>1.6.0-beta5</version>
+    <version>1.6.0-rc1</version>
     <packageSourceUrl>https://github.com/HomagGroup/opentofu-choco</packageSourceUrl>
     <owners>Christian Decker</owners>
     <title>opentofu (Install)</title>
@@ -28,7 +28,7 @@
 </description>
     <releaseNotes>https://github.com/opentofu/opentofu/blob/5553ba8324d1ce5f2ce82b03546dcee1a2834552/CHANGELOG.md#160-unreleased</releaseNotes>
     <dependencies>
-      <dependency id="opentofu.portable" version="[1.6.0-beta5]" />
+      <dependency id="opentofu.portable" version="[1.6.0-rc1]" />
     </dependencies>
   </metadata>
 </package>
