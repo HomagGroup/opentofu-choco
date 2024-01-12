@@ -26,8 +26,9 @@
 
 - **Change Automation**: Complex changesets can be applied to your infrastructure with minimal human interaction. With the previously mentioned execution plan and resource graph, you know exactly what OpenTofu will change and in what order, avoiding many possible human errors.
 </description>
+    <releaseNotes>https://github.com/opentofu/opentofu/blob/5553ba8324d1ce5f2ce82b03546dcee1a2834552/CHANGELOG.md#160-unreleased</releaseNotes>
+    <dependencies>
+      <dependency id="opentofu.portable" version="[1.6.0]" />
+    </dependencies>
   </metadata>
-  <files>
-    <file src="tools\**" target="tools" />
-  </files>
 </package>
