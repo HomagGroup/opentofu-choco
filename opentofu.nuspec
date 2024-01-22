@@ -6,7 +6,7 @@
     <version>0.0.0-placeholder</version>
     <packageSourceUrl>https://github.com/HomagGroup/opentofu-choco</packageSourceUrl>
     <owners>Christian Decker</owners>
-    <title>opentofu (Install)</title>
+    <title>OpenTofu</title>
     <authors>Linux Foundation, HashiCorp, Inc.</authors>
     <projectUrl>https://opentofu.org/</projectUrl>
     <iconUrl>https://opentofu.org/favicons/favicon-32x32.png</iconUrl>
