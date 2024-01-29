@@ -1,4 +1,4 @@
-version='1.6.0-beta5'
+version='1.6.1'
 
 wget "https://github.com/opentofu/opentofu/releases/download/v${version}/tofu_${version}_SHA256SUMS" -O tofu_SHA256SUMS
 
