@@ -28,7 +28,7 @@
 </description>
     <releaseNotes>https://github.com/opentofu/opentofu/blob/5553ba8324d1ce5f2ce82b03546dcee1a2834552/CHANGELOG.md#160-unreleased</releaseNotes>
     <dependencies>
-      <dependency id="opentofu.portable" version="[1.6.1]" />
+      <dependency id="opentofu.portable" version="[1.6.2]" />
     </dependencies>
   </metadata>
 </package>

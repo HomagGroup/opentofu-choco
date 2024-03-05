@@ -7,7 +7,7 @@ Create package locally
 .\get-shasums.sh
 
 # Create a chocolatey package
-choco pack --version 1.6.1
+choco pack --version 1.6.2
 
 # Install the chocolatey package
 choco install opentofu --source .
