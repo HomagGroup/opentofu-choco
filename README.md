@@ -1,5 +1,9 @@
 ﻿# OpenTofu Chocolatey Package
 
+---
+⚠ This repository is now maintained here: https://github.com/ravager-dk/Chocolatey-Packages ⚠
+---
+
 Create package locally
 
 ~~~powershell
